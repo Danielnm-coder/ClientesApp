@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
+    "Method": "Post",
+    "RelativePath": "api/Clientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
+    "Method": "Put",
+    "RelativePath": "api/Clientes",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
+    "Method": "Get",
+    "RelativePath": "api/Clientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
+    "Method": "Delete",
+    "RelativePath": "api/Clientes",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
