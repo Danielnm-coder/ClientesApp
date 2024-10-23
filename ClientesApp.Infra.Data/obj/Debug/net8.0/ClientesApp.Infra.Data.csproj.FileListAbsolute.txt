@@ -1,0 +1,16 @@
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.csproj.AssemblyReference.cache
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.AssemblyInfoInputs.cache
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.AssemblyInfo.cs
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.sourcelink.json
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Infra.Data.deps.json
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Infra.Data.dll
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Infra.Data.pdb
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Domain.dll
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Domain.pdb
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\Clientes.0F6F7D6D.Up2Date
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.dll
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\refint\ClientesApp.Infra.Data.dll
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.pdb
+C:\Csharp_\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ref\ClientesApp.Infra.Data.dll

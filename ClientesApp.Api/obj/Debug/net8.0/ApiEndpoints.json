@@ -2,41 +2,130 @@
   {
     "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
     "Method": "Post",
-    "RelativePath": "api/Clientes",
+    "RelativePath": "api/clientes",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ClientesApp.Domain.Dtos.ClienteRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ClientesApp.Domain.Dtos.ClienteResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
   },
   {
     "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
-    "Method": "Put",
-    "RelativePath": "api/Clientes",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
-    "Method": "Get",
-    "RelativePath": "api/Clientes",
+    "Method": "GetAll",
+    "RelativePath": "api/clientes",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ClientesApp.Domain.Dtos.ClienteResponseDto, ClientesApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
+    "Method": "Put",
+    "RelativePath": "api/clientes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ClientesApp.Domain.Dtos.ClienteRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ClientesApp.Domain.Dtos.ClienteResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
     "Method": "Delete",
-    "RelativePath": "api/Clientes",
+    "RelativePath": "api/clientes/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ClientesApp.Domain.Dtos.ClienteResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ClientesApp.Api.Controllers.ClientesController",
+    "Method": "GetById",
+    "RelativePath": "api/clientes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ClientesApp.Domain.Dtos.ClienteResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

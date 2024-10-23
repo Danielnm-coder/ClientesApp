@@ -1,0 +1,13 @@
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.csproj.AssemblyReference.cache
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.AssemblyInfoInputs.cache
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.AssemblyInfo.cs
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.sourcelink.json
+C:\Csharp_\ClientesApp\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.deps.json
+C:\Csharp_\ClientesApp\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.dll
+C:\Csharp_\ClientesApp\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.pdb
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.dll
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\refint\ClientesApp.Domain.dll
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.pdb
+C:\Csharp_\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ref\ClientesApp.Domain.dll

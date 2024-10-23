@@ -15,7 +15,8 @@ namespace ClientesApp.Domain.Dtos
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Cpf { get; set; }
-        public DateTime DataInclussao { get; set; }
+        public DateTime DataInclusao { get; set; }
         public DateTime DataUltimaAlteracao { get; set; }
+        
     }
 }

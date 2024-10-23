@@ -30,7 +30,7 @@ namespace ClientesApp.Domain.Valiations
                 .NotEmpty().WithMessage("O cpf do cliente é obrigatório.")
                 .Matches(@"^\d{11}$").WithMessage("O cpf do cliente deve ter exatamente 11 dígitos.");
 
-            RuleFor(c => c.DataInclussao)
+            RuleFor(c => c.DataInclusao)
                 .NotEmpty().WithMessage("A data de inclussão do cliente e obrigatoria");
 
             RuleFor(c => c.DataUltimaAlteracao)
