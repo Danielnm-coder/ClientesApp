@@ -20,13 +20,13 @@ namespace ClientesApp.API.Configurations
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Title = "ClientesApp - API para controle de clientes",
-                    Description = "API desenvolvida pela COTI Informática (www.cotiinformatica.com.br) para gerenciamento de clientes.",
+                    Description = "API desenvolvida por Daniel Nascimento para gerenciamento de clientes.",
                     Version = "v1",
                     Contact = new OpenApiContact
                     {
-                        Name = "COTI Informática",
-                        Email = "contato@cotiinformatica.com.br",
-                        Url = new Uri("https://www.cotiinformatica.com.br")
+                        Name = "Daniel Nascimento",
+                        Email = "danielnmaciel02@gmail.com.br",
+                        Url = new Uri("https://www.linkedin.com/in/daniel-nascimento64b922205/")
                     },
                     License = new OpenApiLicense
                     {
